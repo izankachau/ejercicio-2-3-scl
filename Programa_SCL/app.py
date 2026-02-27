@@ -1,3 +1,11 @@
+# =============================================================================
+# Analizador y Generador SCL (IEC 61131) - Ejercicio 2.3
+# Autor  : Izan Kachau
+# Fecha  : Febrero 2026
+# Desc.  : Portal web Flask para crear, validar y gestionar rutinas de control
+#          en lenguaje SCL con análisis sintáctico y lógico integrado.
+# =============================================================================
+
 from flask import Flask, render_template, request, jsonify
 import sqlite3
 import os

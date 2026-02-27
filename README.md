@@ -1,5 +1,7 @@
 # Analizador y Generador SCL (IEC61131)
 
+![Preview del sistema](assets/preview.png)
+
 Plataforma Web para generar y comprobar rutinas lógicas escritas en Structured Control Language (SCL) para PLCs.
 
 ## Características
